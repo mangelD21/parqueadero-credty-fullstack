@@ -2,21 +2,21 @@ Prueba Técnica Fullstack - Credyty
 
 Este repositorio contiene la solución completa a la prueba técnica fullstack para la empresa Credyty, desarrollada con:
 
-✅ Backend en .NET 7 (Visual Studio 2022)
+Backend en .NET 7 (Visual Studio 2022)
 
-✅ Frontend en Angular 20 standalone (Bootstrap)
+Frontend en Angular 20 standalone (Bootstrap)
 
-✅ Base de datos SQL Server
+Base de datos SQL Server
 
-📁 Estructura del proyecto
+Estructura del proyecto
 
 /backend       → Proyecto .NET Core
 /frontend      → Proyecto Angular 20 standalone
 /sql           → Script SQL para la base de datos
 
-✅ Qué se implementó
+Qué se implementó
 
-1️⃣ Registro de ingreso
+Registro de ingreso
 
 POST /api/parking/entry
 
@@ -24,21 +24,21 @@ Recibe placa, tipo de vehículo, hora de entrada
 
 Guarda el ingreso en la base de datos
 
-2️⃣ Salida y liquidación
+Salida y liquidación
 
 POST /api/parking/exit
 
 Calcula minutos, valor a pagar y aplica descuento del 30% si hay facturas
 
-3️⃣ Historial de parqueo
+Historial de parqueo
 
 GET /api/parking/history?start=...&end=...
 
 Lista de vehículos con placa, tipo, tiempo y valor pagado
 
-🦪 JSONs de prueba
+JSONs de prueba
 
-➕ Registrar ingreso
+Registrar ingreso
 
 POST /api/parking/entry
 {
@@ -47,7 +47,7 @@ POST /api/parking/entry
   "entryTime": "2025-06-10T14:30:00Z"
 }
 
-➖ Registrar salida
+Registrar salida
 
 POST /api/parking/exit
 {
