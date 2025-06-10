@@ -1,0 +1,73 @@
+<div class="container mt-5">
+  <div class="card shadow-lg">
+    <div class="card-header bg-dark text-white">
+      <h4 class="mb-0">Salida de Vehículo</h4>
+    </div>
+    <div class="card-body">
+      <div
+        *ngIf="successMessage"
+        class="alert alert-success alert-dismissible fade show"
+        role="alert"
+      >
+        {{ successMessage }}
+      </div>
+      <form (ngSubmit)="registerExit()" #exitForm="ngForm">
+        <div class="mb-3">
+          <label for="plate" class="form-label">Placa</label>
+          <input
+            type="text"
+            id="plate"
+            class="form-control"
+            required
+            [(ngModel)]="plate"
+            name="plate"
+            placeholder="Ej: ABC123"
+          />
+        </div>
+
+        <div class="mb-3">
+          <label for="invoicesRaw" class="form-label">
+            Facturas de supermercado (opcional, separadas por coma)
+          </label>
+          <input
+            type="text"
+            id="invoicesRaw"
+            class="form-control"
+            [(ngModel)]="invoicesRaw"
+            name="invoicesRaw"
+            placeholder="Ej: FAC-001, FAC-002"
+          />
+        </div>
+
+        <div class="text-end">
+          <button
+            type="submit"
+            class="btn btn-danger"
+            [disabled]="exitForm.invalid"
+          >
+            Registrar Salida
+          </button>
+        </div>
+      </form>
+
+      <div *ngIf="summary" class="mt-4 alert alert-success">
+        <h5>Resumen</h5>
+        <p><strong>Placa:</strong> {{ summary.plate }}</p>
+        <p><strong>Tipo de Vehículo:</strong> {{ summary.vehicleType }}</p>
+        <p>
+          <strong>Tiempo:</strong>
+          {{ summary.totalMinutes | number : "1.0-2" }} minutos
+        </p>
+        <p>
+          <strong>Valor a pagar:</strong> ${{
+            summary.totalAmount | number : "1.0-2"
+          }}
+        </p>
+      </div>
+
+      <div *ngIf="errorMessage" class="alert alert-danger mt-4">
+        {{ errorMessage }}
+      </div>
+    </div>
+  </div>
+</div>

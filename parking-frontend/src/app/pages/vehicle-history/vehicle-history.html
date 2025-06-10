@@ -1,0 +1,63 @@
+<div class="container mt-5">
+  <div class="card shadow-lg">
+    <div class="card-header bg-secondary text-white">
+      <h4 class="mb-0">Historial de Parqueo</h4>
+    </div>
+    <div class="card-body">
+      <form (ngSubmit)="buscarHistorial()" #historyForm="ngForm" class="row g-3 mb-4">
+        <div class="col-md-5">
+          <label for="start" class="form-label">Desde</label>
+          <input
+            type="datetime-local"
+            id="start"
+            name="start"
+            [(ngModel)]="start"
+            required
+            class="form-control"
+          />
+        </div>
+        <div class="col-md-5">
+          <label for="end" class="form-label">Hasta</label>
+          <input
+            type="datetime-local"
+            id="end"
+            name="end"
+            [(ngModel)]="end"
+            required
+            class="form-control"
+          />
+        </div>
+        <div class="col-md-2 d-flex align-items-end">
+          <button type="submit" class="btn btn-primary w-100" [disabled]="historyForm.invalid">
+            Buscar
+          </button>
+        </div>
+      </form>
+
+      <div *ngIf="data?.length === 0" class="alert alert-warning">
+        No se encontraron registros en este rango de fechas.
+      </div>
+
+      <div *ngIf="data && data.length > 0" class="table-responsive">
+        <table class="table table-bordered table-hover">
+          <thead class="table-light">
+            <tr>
+              <th>Placa</th>
+              <th>Tipo</th>
+              <th>Minutos</th>
+              <th>Valor Pagado</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let item of data">
+              <td>{{ item.plate }}</td>
+              <td>{{ item.vehicleType }}</td>
+              <td>{{ item.totalMinutes | number:'1.0-2' }}</td>
+              <td>${{ item.totalAmount| number:'1.0-2' }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,55 @@
+<div class="container mt-5">
+  <div class="card shadow-lg">
+    <div class="card-header bg-primary text-white">
+      <h4 class="mb-0">Ingreso de Vehículo</h4>
+    </div>
+    <div class="card-body">
+      <div
+        *ngIf="successMessage"
+        class="alert alert-success alert-dismissible fade show"
+        role="alert"
+      >
+        {{ successMessage }}
+      </div>
+      <form (ngSubmit)="registerEntry()" #entryForm="ngForm">
+        <div class="mb-3">
+          <label for="plate" class="form-label"> Placa del vehículo </label>
+          <input
+            type="text"
+            id="plate"
+            class="form-control"
+            required
+            [(ngModel)]="plate"
+            name="plate"
+            placeholder="Ej: ABC123"
+          />
+        </div>
+
+        <div class="mb-3">
+          <label for="type" class="form-label"> Tipo de vehículo </label>
+          <select
+            name="type"
+            id="type"
+            class="form-select"
+            required
+            [(ngModel)]="vehicleType"
+          >
+            <option [value]="1">Carro</option>
+            <option [value]="2">Motocicleta</option>
+            <option [value]="3">Bicicleta</option>
+          </select>
+        </div>
+
+        <div class="text-end">
+          <button
+            type="submit"
+            class="btn btn-success"
+            [disabled]="entryForm.invalid"
+          >
+            Registrar ingreso
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
