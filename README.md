@@ -92,4 +92,4 @@ Ejecuta el script sql/database.sql
 
 Entregado por
 
-Miguel Angel Diaz Moreno Link del repositorio: https://github.com/tuusuario/parqueadero-credty-fullstackFecha de entrega: 2025-06-09
+Miguel Angel Diaz Moreno Link del repositorio: https://github.com/tuusuario/parqueadero-credty-fullstack Fecha de entrega: 2025-06-09
