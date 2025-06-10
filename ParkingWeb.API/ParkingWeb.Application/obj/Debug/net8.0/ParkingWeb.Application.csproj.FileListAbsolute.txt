@@ -1,0 +1,17 @@
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\bin\Debug\net8.0\ParkingWeb.Application.deps.json
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\bin\Debug\net8.0\ParkingWeb.Application.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\bin\Debug\net8.0\ParkingWeb.Application.pdb
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\bin\Debug\net8.0\ParkingWeb.Domain.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\bin\Debug\net8.0\ParkingWeb.Infrastructure.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\bin\Debug\net8.0\ParkingWeb.Domain.pdb
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\bin\Debug\net8.0\ParkingWeb.Infrastructure.pdb
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\obj\Debug\net8.0\ParkingWeb.Application.csproj.AssemblyReference.cache
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\obj\Debug\net8.0\ParkingWeb.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\obj\Debug\net8.0\ParkingWeb.Application.AssemblyInfoInputs.cache
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\obj\Debug\net8.0\ParkingWeb.Application.AssemblyInfo.cs
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\obj\Debug\net8.0\ParkingWeb.Application.csproj.CoreCompileInputs.cache
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\obj\Debug\net8.0\ParkingW.399E8A2A.Up2Date
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\obj\Debug\net8.0\ParkingWeb.Application.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\obj\Debug\net8.0\refint\ParkingWeb.Application.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\obj\Debug\net8.0\ParkingWeb.Application.pdb
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Application\obj\Debug\net8.0\ref\ParkingWeb.Application.dll

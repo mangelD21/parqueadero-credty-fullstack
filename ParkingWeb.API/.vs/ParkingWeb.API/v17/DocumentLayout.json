@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Migue\\OneDrive\\Documentos\\Prueba Back .NET\\ParkingWeb.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F3E33E-9FFB-467E-A2DB-9890F1C9E30C}|ParkingWeb.Domain\\ParkingWeb.Domain.csproj|c:\\users\\migue\\onedrive\\documentos\\prueba back .net\\parkingweb.api\\parkingweb.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F3E33E-9FFB-467E-A2DB-9890F1C9E30C}|ParkingWeb.Domain\\ParkingWeb.Domain.csproj|solutionrelative:parkingweb.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73A3BB6-D80C-4F44-AB55-CB6E0C758FEB}|ParkingWeb.API\\ParkingWeb.API.csproj|c:\\users\\migue\\onedrive\\documentos\\prueba back .net\\parkingweb.api\\parkingweb.api\\controllers\\parkingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73A3BB6-D80C-4F44-AB55-CB6E0C758FEB}|ParkingWeb.API\\ParkingWeb.API.csproj|solutionrelative:parkingweb.api\\controllers\\parkingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73A3BB6-D80C-4F44-AB55-CB6E0C758FEB}|ParkingWeb.API\\ParkingWeb.API.csproj|c:\\users\\migue\\onedrive\\documentos\\prueba back .net\\parkingweb.api\\parkingweb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73A3BB6-D80C-4F44-AB55-CB6E0C758FEB}|ParkingWeb.API\\ParkingWeb.API.csproj|solutionrelative:parkingweb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\OneDrive\\Documentos\\Prueba Back .NET\\ParkingWeb.API\\ParkingWeb.Domain\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ParkingWeb.Domain\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Migue\\OneDrive\\Documentos\\Prueba Back .NET\\ParkingWeb.API\\ParkingWeb.Domain\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "ParkingWeb.Domain\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:50:42.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\OneDrive\\Documentos\\Prueba Back .NET\\ParkingWeb.API\\ParkingWeb.API\\Program.cs",
+              "RelativeDocumentMoniker": "ParkingWeb.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Migue\\OneDrive\\Documentos\\Prueba Back .NET\\ParkingWeb.API\\ParkingWeb.API\\Program.cs",
+              "RelativeToolTip": "ParkingWeb.API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:04:19.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingController.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\OneDrive\\Documentos\\Prueba Back .NET\\ParkingWeb.API\\ParkingWeb.API\\Controllers\\ParkingController.cs",
+              "RelativeDocumentMoniker": "ParkingWeb.API\\Controllers\\ParkingController.cs",
+              "ToolTip": "C:\\Users\\Migue\\OneDrive\\Documentos\\Prueba Back .NET\\ParkingWeb.API\\ParkingWeb.API\\Controllers\\ParkingController.cs",
+              "RelativeToolTip": "ParkingWeb.API\\Controllers\\ParkingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:54:52.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

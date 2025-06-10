@@ -1,0 +1,17 @@
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\bin\Debug\net8.0\ParkingWeb.Infrastructure.deps.json
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\bin\Debug\net8.0\ParkingWeb.Infrastructure.runtimeconfig.json
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\bin\Debug\net8.0\ParkingWeb.Infrastructure.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\bin\Debug\net8.0\ParkingWeb.Infrastructure.pdb
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\bin\Debug\net8.0\ParkingWeb.Domain.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\bin\Debug\net8.0\ParkingWeb.Domain.pdb
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\ParkingWeb.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\ParkingWeb.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\ParkingWeb.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\ParkingWeb.Infrastructure.AssemblyInfo.cs
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\ParkingWeb.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\ParkingW.34AF5B43.Up2Date
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\ParkingWeb.Infrastructure.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\refint\ParkingWeb.Infrastructure.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\ParkingWeb.Infrastructure.pdb
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\ParkingWeb.Infrastructure.genruntimeconfig.cache
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Infrastructure\obj\Debug\net8.0\ref\ParkingWeb.Infrastructure.dll

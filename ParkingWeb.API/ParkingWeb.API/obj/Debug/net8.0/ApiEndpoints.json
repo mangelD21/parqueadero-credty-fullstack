@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "ParkingWeb.API.Controllers.ParkingController",
+    "Method": "RegisterEntry",
+    "RelativePath": "api/Parking/entry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ParkingWeb.Application.DTOs.ParkingEntryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParkingWeb.API.Controllers.ParkingController",
+    "Method": "RegisterExit",
+    "RelativePath": "api/Parking/exit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ParkingWeb.Application.DTOs.ParkingExitDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParkingWeb.API.Controllers.ParkingController",
+    "Method": "GetHistory",
+    "RelativePath": "api/Parking/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "start",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "end",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

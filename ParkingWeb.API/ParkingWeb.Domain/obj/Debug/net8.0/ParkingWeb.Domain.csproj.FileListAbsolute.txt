@@ -1,0 +1,11 @@
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\bin\Debug\net8.0\ParkingWeb.Domain.deps.json
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\bin\Debug\net8.0\ParkingWeb.Domain.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\bin\Debug\net8.0\ParkingWeb.Domain.pdb
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\obj\Debug\net8.0\ParkingWeb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\obj\Debug\net8.0\ParkingWeb.Domain.AssemblyInfoInputs.cache
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\obj\Debug\net8.0\ParkingWeb.Domain.AssemblyInfo.cs
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\obj\Debug\net8.0\ParkingWeb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\obj\Debug\net8.0\ParkingWeb.Domain.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\obj\Debug\net8.0\refint\ParkingWeb.Domain.dll
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\obj\Debug\net8.0\ParkingWeb.Domain.pdb
+C:\Users\Migue\OneDrive\Documentos\Prueba Back .NET\ParkingWeb.API\ParkingWeb.Domain\obj\Debug\net8.0\ref\ParkingWeb.Domain.dll
